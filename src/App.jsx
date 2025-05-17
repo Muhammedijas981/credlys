@@ -457,13 +457,18 @@ export default function App() {
         <div className="app-description">
           <div className="description-icon">✨</div>
           <h3>Your Links, Your Story!</h3>
-          <p>Never lose track of your professional presence again. Perfect for:</p>
+          <p>
+            Never lose track of your professional presence again. Perfect for:
+          </p>
           <div className="features-list">
             <span>🎯 Job Applications</span>
             <span>💼 Professional Networking</span>
             <span>🌟 Personal Branding</span>
           </div>
-          <p className="inspire-text">One hub for all your important links - because making a great first impression shouldn't be hard!</p>
+          <p className="inspire-text">
+            One hub for all your important links - because making a great first
+            impression shouldn't be hard!
+          </p>
         </div>
         <Footer />
         <p className="note">Your links are saved locally in this browser.</p>
