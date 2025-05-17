@@ -6,7 +6,7 @@ Credlys is a personal link management solution designed to help users save, sear
 
 ## 🌟 Live Demo
 
-Check out the live demo here: [Credlys Live Demo](https://credlys-demo.example.com)
+Check out the live demo here: [Credlys Live Demo](https://credlyst.vercel.app/)
 
 ## Project Background 📝
 
