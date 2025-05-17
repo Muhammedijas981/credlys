@@ -328,7 +328,7 @@ export default function App() {
           <div className="logo-section">
             <div style={{ display: "flex", alignItems: "center", gap: "1rem" }}>
               <img src="/logo.png" alt="Credlyst Logo" className="logo" />
-              <h1 className="app-name">Credlyst</h1>
+              <h1 className="app-name">Credlys</h1>
             </div>
             <button
               onClick={toggleDark}
